@@ -8,17 +8,17 @@
 
 ### 🦊 我的开源项目
 
-**[Safari Web Agent](https://github.com/treyxu23/safari-web-agent)** — 操控真实 Safari 的浏览器自动化
+**[Safari Web Agent](https://github.com/treyxu23/trey-safari-web-agent)** — 操控真实 Safari 的浏览器自动化
 
 Playwright 搞不定的场景——需要登录态的网站、Cloudflare 保护的页面、ProseMirror 编辑器——它搞定。96 个 Safari MCP 工具，原生 macOS CGEvent 事件。
 
-[![safari-web-agent](https://img.shields.io/github/stars/treyxu23/safari-web-agent?style=flat&label=Safari%20Web%20Agent)](https://github.com/treyxu23/safari-web-agent)
+[![safari-web-agent](https://img.shields.io/github/stars/treyxu23/trey-safari-web-agent?style=flat&label=Safari%20Web%20Agent)](https://github.com/treyxu23/trey-safari-web-agent)
 
-**[AI Tool Scout](https://github.com/treyxu23/ai-tool-scout)** — 自动发现 AI 工具 · 深度调研 · 生成选题
+**[AI Tool Scout](https://github.com/treyxu23/trey-ai-tool-scout)** — 自动发现 AI 工具 · 深度调研 · 生成选题
 
 告诉它想看什么赛道，它自动扫描 ProductHunt/GitHub/HN → Safari 实测 → 生成调研报告 + 视频选题建议。
 
-[![ai-tool-scout](https://img.shields.io/github/stars/treyxu23/ai-tool-scout?style=flat&label=AI%20Tool%20Scout)](https://github.com/treyxu23/ai-tool-scout)
+[![ai-tool-scout](https://img.shields.io/github/stars/treyxu23/trey-ai-tool-scout?style=flat&label=AI%20Tool%20Scout)](https://github.com/treyxu23/trey-ai-tool-scout)
 
 ---
 
